@@ -36,7 +36,7 @@ class _profileState extends State<profile> {
               padding: const EdgeInsets.all(15.0),
               child: Row(
                 children: [
-                  Text("                                      Name              :     jenil moradiay",style: TextStyle(color: Colors.white),),
+                  Text(" Name              :     jenil moradiay",style: TextStyle(color: Colors.white),),
 
                 ],
               ),
@@ -45,7 +45,7 @@ class _profileState extends State<profile> {
               padding: const EdgeInsets.all(15.0),
               child: Row(
                 children: [
-                  Text("                                     Email               :    jenilmoradiay@gmail.com",style: TextStyle(color: Colors.white),),
+                  Text(" Email               :    jenilmoradiay@gmail.com",style: TextStyle(color: Colors.white),),
                 ],
               ),
             ),
@@ -53,7 +53,7 @@ class _profileState extends State<profile> {
               padding: const EdgeInsets.all(15.0),
               child: Row(
                 children: [
-                  Text("                                     Mobile No       :     9265280375",style: TextStyle(color: Colors.white),),
+                  Text(" Mobile No       :     9265280375",style: TextStyle(color: Colors.white),),
                 ],
               ),
             ),
@@ -61,7 +61,7 @@ class _profileState extends State<profile> {
               padding: const EdgeInsets.all(15.0),
               child: Row(
                 children: [
-                  Text("                                     Cource             :      Flutter devlopment",style: TextStyle(color: Colors.white),),
+                  Text("  Cource             :      Flutter devlopment",style: TextStyle(color: Colors.white),),
                 ],
               ),
             )
